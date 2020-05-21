@@ -11,4 +11,4 @@ Please use the provided conda environment
     
 Launch in Google Colab
 
-Autoregressive Neural Networks Part 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/autoregression/autoregression_nn_part2.ipynb)
+Autoregressive Neural Networks Part 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/neural_networks/feedforward/autoregression_nn_part2.ipynb)
