@@ -18,3 +18,4 @@ dependencies:
   - pip:
     - pmdarima==1.6.0
     - scikit-learn==0.23.0
+    - fbprophet==0.6
