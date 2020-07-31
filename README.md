@@ -21,10 +21,9 @@ Please use the provided conda environment
 
 ARIMA Exercise: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/arima/arima_exercises.ipynb)
 
-Prophet Exercise: To do.
+Prophet Exercise: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/prophet/prophet_exercises.ipynb)
 
 Respiratory admissions case study: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/resp_case_study/forecasting_respiratory_admissions.ipynb)
-
 
 ### 4. Time series regression
 
