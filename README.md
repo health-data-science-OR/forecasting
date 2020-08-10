@@ -15,17 +15,19 @@ Please use the provided conda environment
 
 # Syllabus
 
-# Pre-course revision material
+# **RECOMMENDED** Pre-course material
+
+These notebooks offer a refresher in the basics of date handling in numpy, pandas and matplotlib.  
 
 * Handling dates in numpy and pandas: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/lectures/1_Lecture_DateTimes.ipynb)
 
+* Exploring time series with pandas and matplotlib: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_lecture_notebooks/2_Lecture_exploring_ts.ipynb)
+
 # Computer Lab 1: The basics of forecasting: part 1
 
-## 1.1 Lecture Notebooks
+## 1.1 Basics lecture notebooks
 
-These notebooks occompany the videos comprising lecture 1.
-
-* Exploring time series: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_lecture_notebooks/2_Lecture_exploring_ts.ipynb)
+These notebooks accompany the exercises.  They provide example code applied to a different dataset.
 
 * Naive benchmarks: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_lecture_notebooks/3_Lecture_naive_benchmarks.ipynb)
 
@@ -39,9 +41,9 @@ These notebooks occompany the videos comprising lecture 1.
 
 # Computer Lab  2: The basics of forecasting: part 2
 
-## 2.1 Lecture Notebooks
+## 2.1 Basics lecture Notebooks
 
-These notebooks occompany the videos comprising lecture 2.
+These notebooks accompany the exercises.  They provide more detail on forecasting theory and code applied to a different dataset.
 
 * Prediction intervals [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/lectures/5_Lecture_prediction_intervals.ipynb)
 
