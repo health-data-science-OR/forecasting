@@ -29,27 +29,19 @@ These notebooks offer a refresher in the basics of date handling in numpy, panda
 
 These notebooks **accompany** the exercises.  They provide example code to help you solve the exercises.
 
-* Exploring time series with pandas and matplotlib: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_lecture_notebooks/2_Lecture_exploring_ts.ipynb)
-
-## 1.2 Exercises
-
-* Exploring time series exercises [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_1.ipynb)
-
-# Computer Lab  2: The basics of forecasting: part 2
-
-## 2.1 Code along notebooks
-
-These are **optional** example notebooks that you can use to help you with the exercises.  They provide more detail on forecasting theory and code applied to a different dataset.  
+* Loading time series data into pandas: * Naive benchmarks: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/pandas_time_series.ipynb)
 
 * Naive benchmarks: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/ca_benchmark_forecasts.ipynb)
 
-## 2.2 Exercises
+## 1.2 Exercises
 
-* Naive forecasting exercises [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_2.ipynb)
+* Naive forecasting exercises [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_1.ipynb)
 
-## 2.3 Optional self study material
+# Computer Lab  2: The basics of forecasting: part 2
 
-* Transformations: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_lecture_notebooks/5_Lecture_transformation.ipynb)
+## 2.1 Exercises
+
+* Time series cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_2.ipynb)
 
 # Computer Lab 3: ARIMA and Prophet
 
