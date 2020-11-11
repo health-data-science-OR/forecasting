@@ -41,7 +41,7 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 ## 2.1 Code along notebooks
 
-* Introduction to cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2_Solutions.ipynb)
+* Introduction to cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2_SOLUTIONS.ipynb)
 
 ## 2.1 Exercises
 
