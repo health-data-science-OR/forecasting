@@ -39,6 +39,10 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 # Computer Lab  2: The basics of forecasting: part 2
 
+## 2.1 Code along notebooks
+
+* Introduction to cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2_Solutions.ipynb)
+
 ## 2.1 Exercises
 
 * Time series cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2.ipynb)
