@@ -29,7 +29,7 @@ These notebooks offer a refresher in the basics of date handling in numpy, panda
 
 These notebooks **accompany** the exercises.  They provide example code to help you solve the exercises.
 
-* Loading time series data into pandas: * Naive benchmarks: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/pandas_time_series.ipynb)
+* Loading time series data into pandas: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/pandas_time_series.ipynb)
 
 * Naive benchmarks: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_code_along_notebooks/ca_benchmark_forecasts.ipynb)
 
@@ -61,7 +61,7 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 # Computer Labs 5. An introduction to feedforward neural networks
 
-## 5.1. Lecture notebooks
+## 5.1. code along lecture notebooks
 
 * Deep Learning 101: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/deep_learning_101/lecture_deeplearning_101.ipynb)
   
@@ -77,7 +77,7 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 # Computer Lab 6: Feedforward neural networks
 
-## 6.1. Lecture notebooks
+## 6.1. code along lecture notebooks
 
 * Autoregressive Neural Networks with KERAS: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part1.ipynb)
 
