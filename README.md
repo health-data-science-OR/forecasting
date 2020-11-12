@@ -51,7 +51,7 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 # 3.1 Code along notebooks
 
-* Introduction to ARIMA Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises.ipynb)
+* Introduction to ARIMA Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises_SOLUTIONS.ipynb)
 
 # 3.2 Exercises
 
