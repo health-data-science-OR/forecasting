@@ -47,23 +47,25 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 * Time series cross validation [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_2.ipynb)
 
-# Computer Lab 3: ARIMA and Prophet
+# Computer Lab 3: Forecasting using ARIMA models
 
 # 3.1 Code along notebooks
 
 * Introduction to ARIMA Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises.ipynb)
 
-* Introduction to Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
-
-# 3.1 Exercises
+# 3.2 Exercises
 
 * ARIMA Exercise: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises.ipynb)
 
-* Prophet Exercise: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises.ipynb)
+# Computer Lab 4: Forecasting daily data using Facebook Prophet
 
-# Computer Lab 4: Respiratory admissions case study
+## 4.1 Code along notebooks
 
-* Case study: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/04_resp_case_study/forecasting_respiratory_admissions.ipynb)
+* Introduction to Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
+
+## 4.2 Exercises
+
+* Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
 
 # Computer Labs 5. An introduction to feedforward neural networks
 
@@ -81,7 +83,7 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 * Autoregressive Neural Networks PYTORCH. Part 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/pytorch/autoregression_pytorch_part1.ipynb)
 
-# Computer Lab 6: Feedforward neural networks
+# Computer Lab 6: Feedforward neural networks for time series
 
 ## 6.1. code along lecture notebooks
 
