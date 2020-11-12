@@ -49,6 +49,12 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 # Computer Lab 3: ARIMA and Prophet
 
+# 3.1 Code along notebooks
+
+* Introduction to ARIMA Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises.ipynb)
+
+* Introduction to Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
+
 # 3.1 Exercises
 
 * ARIMA Exercise: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/02_arima/arima_exercises.ipynb)
