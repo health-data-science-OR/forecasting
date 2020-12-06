@@ -61,6 +61,8 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 ## 4.1 Code along notebooks
 
+* Prophet introductory lecture: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/03_code_along_notebooks/prophet_code_along_SOLUTIONS.ipynb)
+
 * Introduction to Prophet Exercises: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/03_prophet/prophet_exercises_SOLUTIONS.ipynb)
 
 ## 4.2 Exercises
