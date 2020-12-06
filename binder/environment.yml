@@ -5,6 +5,7 @@ channels:
 dependencies:
   - jupyterlab=2.1.2
   - matplotlib=3.2.1
+  - nodejs=10.13.0
   - notebook=6.0.3
   - numpy=1.18.1
   - pandas=1.0.3
