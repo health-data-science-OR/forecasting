@@ -87,12 +87,8 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 # Computer Lab 6: Feedforward neural networks for time series
 
-## 6.1. code along lecture notebooks
-
-* Autoregressive Neural Networks with KERAS: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part1.ipynb)
-
 ## 6.1 Exercises
-* Autoregressive Neural Networks KERAS Part 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part2.ipynb)
+* Autoregressive Neural Networks KERAS Part 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part2_STUDENT.ipynb)
 
 ## 6.2 Optional self study material
 
