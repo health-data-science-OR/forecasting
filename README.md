@@ -77,7 +77,7 @@ These notebooks **accompany** the exercises.  They provide example code to help 
   
 ## 5.2 Exercises
 
-* Autoregressive Neural Networks with KERAS. Part 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part1.ipynb)
+* Autoregressive Neural Networks with KERAS. Part 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/06_neural_networks/feedforward/keras/autoregression_keras_part1_STUDENT.ipynb)
 
 ## 5.3. Optional self study material
 
