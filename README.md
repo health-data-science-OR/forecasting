@@ -1,4 +1,4 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/health-data-science-OR/forecasting/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/health-data-science-OR/forecasting/master)   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4332601.svg)](https://doi.org/10.5281/zenodo.4332601)
 
 # Making a difference with health data:
 ## Forecasting health service demand
@@ -9,7 +9,7 @@
 
 Please use the provided conda environment
 
-    conda env create -f environment.yml
+    conda env create -f binder/environment.yml
 
     conda activate hds_forecast
 
