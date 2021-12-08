@@ -1,3 +1,5 @@
+# saved keras models
+06_neural_networks/feedforward/keras/output/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
