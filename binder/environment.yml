@@ -1,4 +1,4 @@
-name: hds_forecast_2023
+name: hds_forecast
 channels:
   - conda-forge
 dependencies:

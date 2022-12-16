@@ -1,5 +1,8 @@
 # Changes
 
+## v3.0.1
+* Renamed conda environment: hds_forecast_2023 -> hds_forecast
+
 ## v3.0.0
 
 * Upgraded conda environment to latest version of libraries
