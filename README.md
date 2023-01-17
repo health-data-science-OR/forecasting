@@ -38,6 +38,11 @@ These notebooks **accompany** the exercises.  They provide example code to help 
 
 * Naive forecasting exercises [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_1.ipynb)
 
+
+https://colab.research.google.com/github/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/practical_1.ipynb
+
+https://github.com/health-data-science-OR/forecasting/blob/master/01_basics/01_practicals_notebooks/Practical_1.ipynb
+
 # Computer Lab  2: The basics of forecasting: part 2
 
 ## 2.1 Code along notebooks
