@@ -1,0 +1,17 @@
+name: hds_pytorch
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab=3.4.6
+  - jupyterlab-plotly-extension=1.0.0
+  - jupyterlab-spellchecker=0.7.2
+  - matplotlib=3.5.3
+  - numpy=1.23.2
+  - pandas=1.4.4
+  - pip=22.2.2
+  - python=3.8.12
+  - pytorch=1.10.0
+  - scipy=1.9.1
+  - pip:
+    - scikit-learn==1.2.0
+    - forecast-tools==0.2.0
