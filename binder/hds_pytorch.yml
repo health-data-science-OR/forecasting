@@ -14,4 +14,4 @@ dependencies:
   - scipy=1.9.1
   - pip:
     - scikit-learn==1.2.0
-    - forecast-tools==0.2.0
+    - forecast-tools==0.2.1
