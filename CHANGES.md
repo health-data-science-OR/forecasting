@@ -1,5 +1,8 @@
 # Changes
 
+## v4.0.1
+* PATCH: hds_pytorch updated to use forecast-tools 0.2.1
+
 ## v4.0.0
 
 * ENV: Updated hds_forecast to python 3.10 and latest package Dec 2024
