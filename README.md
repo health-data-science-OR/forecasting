@@ -2,6 +2,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4332601.svg)](https://doi.org/10.5281/zenodo.4332601) 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/release/python-3100+/)
+[![License: MIT](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481)
 
 # HPDM097: Making a difference with health data:
 ## Forecasting health service demand
