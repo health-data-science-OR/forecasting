@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: forecasting health service demand in python
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Thomas
+    family-names: Monks
+    affiliation: University of Exeter
+    orcid: 'https://orcid.org/0000-0003-2631-4481'
+repository-code: 'https://github.com/health-data-science-OR/forecasting/'
+keywords:
+  - forecasting
+  - python
+  - open science
+license: MIT
