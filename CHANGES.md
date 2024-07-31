@@ -9,10 +9,11 @@
 
 ### Fixed
 
-* NN: `sliding_window` patch to include final window (loop + 1)
+* NN: `sliding_window` patch to include final window (loop + 1) [#30](https://github.com/health-data-science-OR/forecasting/issues/30)
 * NN: Notebooks patched to include code to check and then create `output` directory if it does not exist
-* PRE-REQS: notebooks fixed to download data from Github URL. [#30](https://github.com/health-data-science-OR/forecasting/issues/30)
+* PRE-REQS: notebooks fixed to download data from Github URL. [#6](https://github.com/health-data-science-OR/forecasting/issues/6)
 * LAB2: Exercise 1.4 fixed to use correct prediction horizon [#24](https://github.com/health-data-science-OR/forecasting/issues/24)
+* WEEK1 EXTRA: Patched to download dat from Github URL [#16](https://github.com/health-data-science-OR/forecasting/issues/16)
 
 ## v4.0.1
 * PATCH: hds_pytorch updated to use forecast-tools 0.2.1
