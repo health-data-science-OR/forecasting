@@ -5,12 +5,13 @@
 ### Changed
 
 * ENV: Updated `hds_forecast` to python 3.11 and latest compatible packages July 2024 (note tensorflow set to 2.15 to match Google Colab).
+* ENV: Now uses `forecast-tools` v0.3.0
 
 ### Fixed
 
 * NN: `sliding_window` patch to include final window (loop + 1)
 * NN: Notebooks patched to include code to check and then create `output` directory if it does not exist
-* PRE-REQS: notebooks fixed to download data from Github URL.
+* PRE-REQS: notebooks fixed to download data from Github URL. [#30](https://github.com/health-data-science-OR/forecasting/issues/30)
 
 ## v4.0.1
 * PATCH: hds_pytorch updated to use forecast-tools 0.2.1
