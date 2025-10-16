@@ -4,10 +4,6 @@
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3110+/)
 [![License: MIT](https://img.shields.io/badge/ORCID-0000--0003--2631--4481-brightgreen)](https://orcid.org/0000-0003-2631-4481)
 
-Based on the current README, I'll create an improved version that's more comprehensive, user-friendly, and better structured:
-
-***
-
 # 📊 Forecasting Health Service Demand
 
 A practical course on forecasting methods for health service demand, part of the **HPDM097: Making a Difference with Health Data** module.
@@ -102,7 +98,7 @@ Get up to speed with essential date and time series handling:
 
 **Materials**:
 - Code-along: Prophet lecture and introduction
-- Exercises: Prophet application to health data
+- Exercises: Prophet application to health data; Revisiting ARIMA (Regression with ARIMA errors)
 
 **Key Skills**: Automated forecasting, interpretable components, robust to missing data
 
@@ -139,10 +135,9 @@ Get up to speed with essential date and time series handling:
 ## 📊 Example Applications
 
 All examples use real-world health service scenarios:
-- Emergency department attendance forecasting
-- Hospital bed demand prediction
-- Outpatient appointment scheduling
-- Resource allocation optimization
+- Emergency department attendances, reattendances, and admissions forecasting
+- Ambulance dispatches
+- Forecasting monthly and daily level data
 
 ## 🤝 Contributing
 
@@ -192,58 +187,3 @@ Developed for the Making a Difference with Health Data module. Special thanks to
 ***
 
 **Latest Release**: v5.0.0 (March 10, 2025)
-
-***
-
-This improved README features:[1]
-
-1. **Visual appeal**: Emojis, badges, and better formatting
-2. **Clear navigation**: Well-organized sections with descriptive headers
-3. **Quick start**: Step-by-step installation instructions
-4. **Learning outcomes**: Clear description of what students will learn
-5. **Detailed syllabus**: Each lab includes topics, materials, and key skills
-6. **Prerequisites**: Explicit requirements listed
-7. **Technologies**: Key libraries and tools highlighted
-8. **Applications**: Real-world context emphasized
-9. **Contributing guidelines**: Encourages community involvement
-10. **Support section**: Clear channels for help
-11. **Better structure**: Logical flow from overview to details
-12. **Professional formatting**: Consistent styling and hierarchy
-
-[1](https://github.com/health-data-science-OR/forecasting)
-
-
-# HPDM097: Making a difference with health data:
-## Forecasting health service demand
-
-> Forecasting practical materials for **Making a difference with health data** module.
-
-**Dependencies**
-
-Please use the provided conda environment
-
-```
-conda env create -f binder/environment.yml
-```
-
-```
-conda activate hds_forecast
-```
-
-## Citation:
-
-```
-Monks, T. (2023). forecasting health service demand in python. Zenodo. https://doi.org/10.5281/zenodo.4332600
-```
-
-```tex
-@software{monks_2023_10370697,
-  author       = {Monks, Thomas},
-  title        = {forecasting health service demand in python},
-  month        = dec,
-  year         = 2023,
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.4332600},
-  url          = {https://doi.org/10.5281/zenodo.4332600}
-}
-```
