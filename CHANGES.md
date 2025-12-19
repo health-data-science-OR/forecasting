@@ -1,5 +1,16 @@
 # Changes
 
+## v5.1.0
+
+### Changed
+
+* Autoregression: `05_autoregression` -> `04_autoregression`
+* Neural networks: `06_neural_networks` -> `05_neural_networks`
+
+### Removed
+
+* `04_resp_case_study`: removed as no longer part of taught course.
+
 ## v5.0.0
 
 ### Changed
