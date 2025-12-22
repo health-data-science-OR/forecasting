@@ -6,6 +6,7 @@
 
 * Autoregression: `05_autoregression` -> `04_autoregression`
 * Neural networks: `06_neural_networks` -> `05_neural_networks`
+* Practical 1: `Practical_1_Solutions.ipynb` and `Practical_1.ipynb` have been updated to provide a detailed exercise to calculate prediction intervals, estimate coverage, absolute coverage difference and the winkler score.  The notebook now also uses the interactive plotting function from `forecast_tools`
 
 ### Removed
 
