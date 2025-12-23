@@ -156,7 +156,7 @@ If you use these materials in your research or teaching, please cite:
   author = {Monks, Thomas},
   title = {Forecasting health service demand in python},
   month = dec,
-  year = 2023,
+  year = 2025,
   publisher = {Zenodo},
   doi = {10.5281/zenodo.4332600},
   url = {https://doi.org/10.5281/zenodo.4332600}
