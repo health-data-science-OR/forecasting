@@ -7,7 +7,9 @@
 * Autoregression: `05_autoregression` -> `04_autoregression`
 * Neural networks: `06_neural_networks` -> `05_neural_networks`
 * Practical 1: `Practical_1_Solutions.ipynb` and `Practical_1.ipynb` have been updated to provide a detailed exercise to calculate prediction intervals, estimate coverage, absolute coverage difference and the winkler score.  The notebook now also uses the interactive plotting function from `forecast_tools`
+* Practical 4: `reg_with_arima.ipynb` student 2024/2025 feedback taken into account. Improvement in design and explanation of notebook.  Addition of forecast error metrics.
 * Practical 5: `autoregression_keras_part1_SOLUTIONS.ipynb` + `autoregression_keras_part1_STUDENT.ipynb` higher learning rate set (0.001 -> 0.01) for basic neural network example. This increases the stability of the network.
+
 
 ### Fixed
 
