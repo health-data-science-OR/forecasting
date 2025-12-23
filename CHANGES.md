@@ -2,6 +2,8 @@
 
 ## v5.1.0
 
+Changes for 2025/2026 Students.
+
 ### Changed
 
 * Autoregression: `05_autoregression` -> `04_autoregression`
