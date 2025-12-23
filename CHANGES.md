@@ -9,6 +9,10 @@
 * Practical 1: `Practical_1_Solutions.ipynb` and `Practical_1.ipynb` have been updated to provide a detailed exercise to calculate prediction intervals, estimate coverage, absolute coverage difference and the winkler score.  The notebook now also uses the interactive plotting function from `forecast_tools`
 * Practical 5: `autoregression_keras_part1_SOLUTIONS.ipynb` + `autoregression_keras_part1_STUDENT.ipynb` higher learning rate set (0.001 -> 0.01) for basic neural network example. This increases the stability of the network.
 
+### Fixed
+
+* Practical 6 `autoregression_keras_part2_SOLUTIONS.ipynb` and `autoregression_keras_part2_STUDENT.ipynb` fixed relative path for loading pre-trained keras models for the ensemble. `/input` -> `./input`
+
 ### Removed
 
 * `04_resp_case_study`: removed as no longer part of taught course.
