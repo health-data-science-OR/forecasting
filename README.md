@@ -152,11 +152,10 @@ Contributions are welcome! Please feel free to:
 If you use these materials in your research or teaching, please cite:
 
 ```bibtex
-@software{monks_2023_10370697,
+@software{monks_2020,
   author = {Monks, Thomas},
   title = {Forecasting health service demand in python},
-  month = dec,
-  year = 2025,
+  year = 2020,
   publisher = {Zenodo},
   doi = {10.5281/zenodo.4332600},
   url = {https://doi.org/10.5281/zenodo.4332600}
@@ -171,7 +170,7 @@ If you use these materials in your research or teaching, please cite:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.  The course materials (text) are licensed under CC BY 4.0.
 
 ## 🔗 Related Resources
 
@@ -182,8 +181,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌟 Acknowledgments
 
-Developed for the Making a Difference with Health Data module. Special thanks to all contributors and students who have helped improve these materials.
+Special thanks to all contributors and students who have helped improve these materials.
 
 ***
 
-**Latest Release**: v5.1.0 (December 23, 2025)
+**Latest Release**: v5.1.1 (January 16, 2026)

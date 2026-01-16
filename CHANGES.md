@@ -4,8 +4,8 @@
 
 ### Fixed
 
-* Practical 2: fixed `train_fold` typo
-* Practical 3: fixed "air passengers" typo
+* Practical 2: fixed `train_fold` typo.
+* Practical 3: fixed "air passengers" typo.
 * Practical 4: fixed "366" -> "1096" typo.
 
 ## v5.1.0
