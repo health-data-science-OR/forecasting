@@ -1,5 +1,18 @@
 # Changes
 
+## v6.0.0  
+
+Updates for 2026/27 cohort based on feedback from the 2025/26 Cohort of Students.
+
+### Changes
+
+- Lab 6: Keras part 2. Substantial rewrite to simplify notebook based on student feedback
+- Lab 6: Improved reproducibility for TF and Keras training.
+
+### Fixed
+
+- Minor typos in notebooks.
+
 ## v5.1.1
 
 ### Fixed
