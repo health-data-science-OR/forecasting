@@ -1,5 +1,18 @@
 # Changes
 
+## v6.0.1
+
+Minor fix to removed redundant notebooks from Lab 6 (pre-2026/27 versions).
+
+### Fixed
+
+- Keras lab part 2 renamed to Case Study
+
+### Removed
+
+- Keras lab part pre-2026/27 STUDENT + SOLUTIONS notebooks removed.
+
+
 ## v6.0.0  
 
 Updates for 2026/27 cohort based on feedback from the 2025/26 Cohort of Students.
